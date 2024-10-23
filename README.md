@@ -13,3 +13,5 @@ Create a Shopify-from-wix-web-store for a client
 I deleted "Wobs" from the "Brand" column, which is now called "Vendor" in the Shopify csv. The default value is "Wheestore"
 
 [https://www.marksimonson.com/fonts/view/proxima-nova](https://www.marksimonson.com/fonts/view/proxima-nova)
+
+Are we paying for this font already?
