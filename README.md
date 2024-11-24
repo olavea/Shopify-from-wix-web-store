@@ -25,6 +25,7 @@ color
 page background color: FFFCF4
 solid button background #9E8765
 
+We need to finish up here
 
 
 [shopify theme](https://themes.shopify.com/themes/spotlight/styles/default/preview?surface_detail=designers&surface_inter_position=1&surface_intra_position=3&surface_type=designers)
